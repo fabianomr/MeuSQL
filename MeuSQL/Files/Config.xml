@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<Config>
+  <Connections>
+    <Server>localhost</Server>
+    <Port>3306</Port>
+    <User>root</User>
+  </Connections>
+</Config>
